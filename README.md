@@ -37,3 +37,19 @@ Data Preprocessing
   <ul><li>Per the inital code, we wanted to remove both the EIN and Name from the dataset, as they were not features.</li></ul>
 </ul>
 
+Compiling, Training, and Evaluating the Model
+<ul>
+  <li>How many neurons, layers, and activation functions did you select for your neural network model, and why?</li>
+    <ul>
+      <li>Neurons:</li>
+        <ul><li>80, 30, 1</li></ul>
+      <li>Layers:</li>
+        <ul><li>2 Dense Hidden Layers, 1 Dense Output Layer.</li></ul>
+      <li>Activation Functions:</li>
+        <ul><li>relu, sigmoid</li></ul>
+    </ul>
+  <li>Were you able to achieve the target model performance?</li>
+  <ul><li></li></ul>
+  <li>What steps did you take in your attempts to increase model performance?</li>
+  <ul><li></li></ul>
+</ul>
