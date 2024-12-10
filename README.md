@@ -3,7 +3,7 @@ The report on the Neural Network can be found in this README.md file. The initia
 
 The additional attempts at optimizing the Nerual Network to achieve an accuracy score of 75% can be found in the 'AlphabetSoupCharity_Optimization.ipynb' file with a printout of the network in the h5 file, 'AlphabetSoupCharity_Optimization.h5'.
 
-#Overview
+# Overview
 <ul>
   <li>Purpose of this analysis:</li>
   <ul>
