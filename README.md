@@ -25,3 +25,15 @@ The additional attempts at optimizing the Nerual Network to achieve an accuracy 
       </ul>
   </ul>
 </ul>
+
+# Results
+Data Preprocessing
+<ul>
+  <li>What variable(s) are the target(s) for your model?</li>
+  <ul><li>The variable that was used as a target in my model was 'IS_SUCCESSFUL'.</li></ul>
+  <li>What variable(s) are the features for your model?</li>
+  <ul><li>I used all of the other variables besides EIN and Name when it came to the features used in my models.</li></ul>
+  <li>What variable(s) should be removed from the input data because they are neither targets nor features?</li>
+  <ul><li>Per the inital code, we wanted to remove both the EIN and Name from the dataset, as they were not features.</li></ul>
+</ul>
+
