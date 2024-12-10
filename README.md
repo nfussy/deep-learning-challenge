@@ -48,6 +48,7 @@ Compiling, Training, and Evaluating the Model
       <li>Activation Functions:</li>
         <ul><li>relu, sigmoid</li></ul>
     </ul>
+  In the original neural network, there were three layers added: the first layer, a hidden layer, with 80 Neurons and an activation function of 'relu'; the second layer, another hidden layer, with 30 neurons and an activation function of 'relu'; and a third layer, the output layer, with 1 neuron and a sigmoid activation function.
   <li>Were you able to achieve the target model performance?</li>
   <ul><li></li></ul>
   <li>What steps did you take in your attempts to increase model performance?</li>
